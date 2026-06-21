@@ -1,0 +1,15 @@
+{
+  "name": "Tinas Lesecockpit",
+  "short_name": "Lesecockpit",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#021f3d",
+  "theme_color": "#021f3d",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
